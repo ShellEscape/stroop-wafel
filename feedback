@@ -1,0 +1,9 @@
+echo "# stroop-wafel" >> README.md
+git init
+git add README.md
+git commit -m "stroop-feedback"
+git branch -M main
+git remote add origin https://github.com/ShellEscape/stroop-wafel.git
+git push -u origin main
+
+"this is used for the feedback section of what anyone would like, although this is to the public and i am working on this privately for those who have this link i would appreciate if you left a comment of some kind for feedback!" 
